@@ -1,0 +1,43 @@
+{
+  "modelName": "dependent_texture_model",
+  "name": "Canon_Wood_normal",
+  "identifier": "dependent_texture_model:287941-bb2f3edd-4ddc-49ed-b462-dc96fe1161e4",
+  "sourceIdentifier": "asset_collection_model:288001-bb2f3edd-4ddc-49ed-b462-dc96fe1161e4",
+  "alphaPremultiplicationMode": "none",
+  "assetLocator": "ee0c26840c919bf295127c58791dcb90.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "trilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {
+    "textures": [
+      {
+        "type": 1
+      }
+    ]
+  },
+  "isExternalAsset": false,
+  "originalFileHash": "741b763dca04de4a896588a3273b9e4c",
+  "originalFileReference": "file_reference_model:288021-bb2f3edd-4ddc-49ed-b462-dc96fe1161e4",
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "repeat",
+  "vWrapMode": "repeat",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "assetDataHash": "ee0c26840c919bf295127c58791dcb90",
+      "colorCount": 26000,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 9.68015795787807,
+      "pixelsHigh": 1024,
+      "pixelsWide": 1024
+    }
+  ]
+}

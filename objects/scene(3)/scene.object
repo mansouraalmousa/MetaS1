@@ -1,0 +1,296 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "Canon - Asset for Pirate Ship",
+  "identifier": "master3_d_object_model:287997-bb2f3edd-4ddc-49ed-b462-dc96fe1161e4",
+  "sourceIdentifier": "asset_collection_model:288001-bb2f3edd-4ddc-49ed-b462-dc96fe1161e4",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "depth": 119.27555847167969,
+  "globalScaleFactor": 0.007290419354853064,
+  "height": 116.99705505371094,
+  "hidden": false,
+  "layerIdentifier": "layer0",
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": -1.570796251296997,
+    "ry": 0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 0.9999999403953552,
+    "sz": 0.9999999403953552,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "width": 274.3326416015625,
+  "children": [
+    {
+      "modelName": "sceneObject",
+      "name": "Collada visual scene group",
+      "identifier": "sceneObject:287953-bb2f3edd-4ddc-49ed-b462-dc96fe1161e4",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "hidden": false,
+      "layerIdentifier": "layer0",
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "shapeColor": "0xff808080",
+      "shapeType": 0,
+      "tags": [],
+      "transform": {
+        "rx": 1.5707963705062866,
+        "ry": 0,
+        "rz": 0,
+        "sx": 1,
+        "sy": 1,
+        "sz": 1,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "children": [
+        {
+          "modelName": "sceneObject",
+          "name": "SM_Canon",
+          "identifier": "sceneObject:287955-bb2f3edd-4ddc-49ed-b462-dc96fe1161e4",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "hidden": false,
+          "layerIdentifier": "layer0",
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "shapeColor": "0xff808080",
+          "shapeType": 0,
+          "tags": [],
+          "transform": {
+            "rx": 0,
+            "ry": 0,
+            "rz": 0,
+            "sx": 1,
+            "sy": 1,
+            "sz": 1,
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "children": [
+            {
+              "modelName": "mesh",
+              "name": "defaultMaterial",
+              "identifier": "mesh:287957-bb2f3edd-4ddc-49ed-b462-dc96fe1161e4",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "castShadow": false,
+              "hidden": false,
+              "layerIdentifier": "layer0",
+              "nodeName": "defaultMaterial",
+              "numberOfFaces": 7616,
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "prefabIdentifier": "gltf:287961-bb2f3edd-4ddc-49ed-b462-dc96fe1161e4",
+              "receiveShadow": false,
+              "renderPass": "main_scene",
+              "tags": [],
+              "transform": {
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "useEmbeddedBlendshapes": false,
+              "children": [
+                {
+                  "modelName": "surfaces",
+                  "identifier": "surfaces:287959-bb2f3edd-4ddc-49ed-b462-dc96fe1161e4",
+                  "children": [
+                    {
+                      "modelName": "surface",
+                      "name": "surface0",
+                      "identifier": "surface:287964-bb2f3edd-4ddc-49ed-b462-dc96fe1161e4",
+                      "isMaterialIdentifierEnabled": true,
+                      "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:287919-bb2f3edd-4ddc-49ed-b462-dc96fe1161e4",
+                      "surfaceGroupIdentifier": "287965-bb2f3edd-4ddc-49ed-b462-dc96fe1161e4"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "modelName": "mesh",
+              "name": "defaultMaterial0",
+              "identifier": "mesh:287967-bb2f3edd-4ddc-49ed-b462-dc96fe1161e4",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "castShadow": false,
+              "hidden": false,
+              "layerIdentifier": "layer0",
+              "nodeName": "defaultMaterial",
+              "numberOfFaces": 97,
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "prefabIdentifier": "gltf:287971-bb2f3edd-4ddc-49ed-b462-dc96fe1161e4",
+              "receiveShadow": false,
+              "renderPass": "main_scene",
+              "tags": [],
+              "transform": {
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "useEmbeddedBlendshapes": false,
+              "children": [
+                {
+                  "modelName": "surfaces",
+                  "identifier": "surfaces:287969-bb2f3edd-4ddc-49ed-b462-dc96fe1161e4",
+                  "children": [
+                    {
+                      "modelName": "surface",
+                      "name": "surface0",
+                      "identifier": "surface:287974-bb2f3edd-4ddc-49ed-b462-dc96fe1161e4",
+                      "isMaterialIdentifierEnabled": true,
+                      "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:287927-bb2f3edd-4ddc-49ed-b462-dc96fe1161e4",
+                      "surfaceGroupIdentifier": "287975-bb2f3edd-4ddc-49ed-b462-dc96fe1161e4"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "modelName": "mesh",
+              "name": "defaultMaterial1",
+              "identifier": "mesh:287977-bb2f3edd-4ddc-49ed-b462-dc96fe1161e4",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "castShadow": false,
+              "hidden": false,
+              "layerIdentifier": "layer0",
+              "nodeName": "defaultMaterial",
+              "numberOfFaces": 1522,
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "prefabIdentifier": "gltf:287981-bb2f3edd-4ddc-49ed-b462-dc96fe1161e4",
+              "receiveShadow": false,
+              "renderPass": "main_scene",
+              "tags": [],
+              "transform": {
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "useEmbeddedBlendshapes": false,
+              "children": [
+                {
+                  "modelName": "surfaces",
+                  "identifier": "surfaces:287979-bb2f3edd-4ddc-49ed-b462-dc96fe1161e4",
+                  "children": [
+                    {
+                      "modelName": "surface",
+                      "name": "surface0",
+                      "identifier": "surface:287984-bb2f3edd-4ddc-49ed-b462-dc96fe1161e4",
+                      "isMaterialIdentifierEnabled": true,
+                      "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:287935-bb2f3edd-4ddc-49ed-b462-dc96fe1161e4",
+                      "surfaceGroupIdentifier": "287985-bb2f3edd-4ddc-49ed-b462-dc96fe1161e4"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "modelName": "mesh",
+              "name": "defaultMaterial2",
+              "identifier": "mesh:287987-bb2f3edd-4ddc-49ed-b462-dc96fe1161e4",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "castShadow": false,
+              "hidden": false,
+              "layerIdentifier": "layer0",
+              "nodeName": "defaultMaterial",
+              "numberOfFaces": 1552,
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "prefabIdentifier": "gltf:287991-bb2f3edd-4ddc-49ed-b462-dc96fe1161e4",
+              "receiveShadow": false,
+              "renderPass": "main_scene",
+              "tags": [],
+              "transform": {
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "useEmbeddedBlendshapes": false,
+              "children": [
+                {
+                  "modelName": "surfaces",
+                  "identifier": "surfaces:287989-bb2f3edd-4ddc-49ed-b462-dc96fe1161e4",
+                  "children": [
+                    {
+                      "modelName": "surface",
+                      "name": "surface0",
+                      "identifier": "surface:287994-bb2f3edd-4ddc-49ed-b462-dc96fe1161e4",
+                      "isMaterialIdentifierEnabled": true,
+                      "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:287943-bb2f3edd-4ddc-49ed-b462-dc96fe1161e4",
+                      "surfaceGroupIdentifier": "287995-bb2f3edd-4ddc-49ed-b462-dc96fe1161e4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

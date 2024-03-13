@@ -704,7 +704,7 @@
       "effectUsesPortalPose": false,
       "effectUsesPreciseLocation": false,
       "effectUsesPrefabScriptingModule": false,
-      "effectUsesPreviewCaptureOutputs": true,
+      "effectUsesPreviewCaptureOutputs": false,
       "effectUsesQPL": false,
       "effectUsesRGBCameraTexture": false,
       "effectUsesRTRMapping": false,
