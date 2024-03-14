@@ -215,7 +215,7 @@
                       "outputVisibility": "preview|capture",
                       "physicsEnabled": false,
                       "sizingMode": "full_screen",
-                      "spaceMode": "camera_space",
+                      "spaceMode": "world_space",
                       "tags": [],
                       "transform": {
                         "rx": 0,
